@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaFundamentals.Core.iml" filepath="$PROJECT_DIR$/.idea/JavaFundamentals.Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFunds01/JavaFunds01.iml" filepath="$PROJECT_DIR$/JavaFunds01/JavaFunds01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFunds02/JavaFunds02.iml" filepath="$PROJECT_DIR$/JavaFunds02/JavaFunds02.iml" />
+    </modules>
+  </component>
+</project>
